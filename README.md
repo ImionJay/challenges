@@ -1,9 +1,9 @@
-# firehose challenges
+# Firehose Challenges
 
-## Card
+## Card Challenge
 
 This will shuffle a deck of cards and randomly give the user one.
 
-## Imageblur
+## Imageblur Challenge
 
 This will display an image using numbers.
